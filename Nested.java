@@ -1,4 +1,5 @@
 // iterations || counting with  nested loops
+class void Nested () {
 
 private void Nested() {
     int n = 10; 
@@ -9,6 +10,10 @@ private void Nested() {
         }
     }
 }
+}
+
+
+// creating new stuff in the balter new of surrending. I don't have a clur what I wrote. xD 
 
 // Testing Nested inside Nested 
 
