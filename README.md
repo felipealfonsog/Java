@@ -1,6 +1,8 @@
 # 
 # Algorithms and Software Engineering for Professionals
 
+All these are related with my studies in Python as well, here https://github.com/felipealfonsog/Python
+
 Working and testing files of - Understand the core concepts and algorithms of software engineering using Java 
 Focused to:
 
