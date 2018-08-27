@@ -1,7 +1,7 @@
 # 
 # Algorithms and Software Engineering for Professionals
 
-All these are related with my studies in Python as well, here https://github.com/felipealfonsog/Python
+All these are related with my studies in Python as well, here  https://github.com/felipealfonsog/Python-MITx---6.00.1x---6.00.2x/blob/master/README.md
 
 Working and testing files of - Understand the core concepts and algorithms of software engineering using Java 
 Focused to:
