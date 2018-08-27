@@ -1,7 +1,16 @@
 # 
 # Algorithms and Software Engineering for Professionals
 
-Understand the core concepts and algorithms of software engineering using Java 
+Working and testing files of - Understand the core concepts and algorithms of software engineering using Java 
+Focused to:
+
+    Master the core software engineering algorithms
+    Understand the concepts Iterations, time complexity and optimization
+    Understand key data structures such as stack and queues
+    Learn the Art of Algorithm design
+    Master tree and graph Algorithms
+    Ace in technical interviews with proper grasp of concepts
+
 #
 https://www.udemy.com/algorithms-and-software-engineering-for-professionals/learn/v4/overview
 
